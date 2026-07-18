@@ -41,9 +41,7 @@ Visual Studio Code
 Git & GitHub
 
 📈 Progress
-
 This repository is updated regularly as I solve new LeetCode problems. Solutions are added with clean, readable code and optimized approaches whenever possible.
 
 🤝 Contributions
-
 This repository is primarily for my personal learning and interview preparation. Suggestions and improvements are always welcome.
